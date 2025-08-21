@@ -43,7 +43,7 @@ This repository contains the **exact code and outputs** used to generate the fig
 4. Run the scripts in this order (see details below):
    ```matlab
    % 1) Build/assemble networks
-   run fullfile('Analysis','R1_networks.m')
+   run fullfile('Analysis','R2_networks.m')
 
    % 2) Grazing scenarios / time series
    run fullfile('Analysis','R1_percentagegraze_v1_revision.m')
